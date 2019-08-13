@@ -1,0 +1,4 @@
+RPi.GPIO
+smbus-cffi
+paho-mqtt
+Adafruit_MPR121
